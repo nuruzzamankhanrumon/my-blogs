@@ -1,0 +1,6 @@
+nav > ul > li{
+    display: inline;
+    margin:20px;
+    border: 10 px solid black;
+    
+}
